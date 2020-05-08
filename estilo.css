@@ -59,6 +59,35 @@ body{
 	background: white;
 	color: black;
 }
+#platzi
+{ display: inline-block;
+ color: black;
+ width: 40%;
+ height: 450px;
+ text-align: left;
+ vertical-align: top;
+ background: orange;
+ margin: 10px 4% 10px 4%;
+}
+.pla{
+	color: black;
+	width: 100%;
+	height: 50px;
+	text-align: center;
+
+}
+#platzi h1{
+	text-align: center;
+}
+#plat
+{ display: inline-block;
+	color: black;
+	width: 40%;
+ height: 200px;
+ vertical-align: top;
+ background: orange;
+ margin: 10px 4% 10px 4%;
+}
 #general
 {  
 	display: block;
